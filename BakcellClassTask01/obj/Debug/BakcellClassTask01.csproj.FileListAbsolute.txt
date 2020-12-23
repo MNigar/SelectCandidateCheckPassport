@@ -1,0 +1,7 @@
+D:\C#course\BakcellClassTask01\BakcellClassTask01\bin\Debug\BakcellClassTask01.exe.config
+D:\C#course\BakcellClassTask01\BakcellClassTask01\bin\Debug\BakcellClassTask01.exe
+D:\C#course\BakcellClassTask01\BakcellClassTask01\bin\Debug\BakcellClassTask01.pdb
+D:\C#course\BakcellClassTask01\BakcellClassTask01\obj\Debug\BakcellClassTask01.csprojAssemblyReference.cache
+D:\C#course\BakcellClassTask01\BakcellClassTask01\obj\Debug\BakcellClassTask01.csproj.CoreCompileInputs.cache
+D:\C#course\BakcellClassTask01\BakcellClassTask01\obj\Debug\BakcellClassTask01.exe
+D:\C#course\BakcellClassTask01\BakcellClassTask01\obj\Debug\BakcellClassTask01.pdb
