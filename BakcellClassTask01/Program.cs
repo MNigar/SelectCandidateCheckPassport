@@ -15,7 +15,7 @@ namespace BakcellClassTask01
             candidate.Email = "nigar4t@live.com";
             candidate.Name = "Nigar";
             Candidate.Show(candidate);
-            Bakcell bakcell = new Bakcell();
+            Company bakcell = new Company();
             for (; ;)
             {
                 Console.WriteLine("Namizedin Idsini seçin");

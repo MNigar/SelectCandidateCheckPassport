@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BakcellClassTask01
 {
-    public class Bakcell
+    public class Company
     {
         public int Id  { get; set; }
         public string Name { get; set; }
@@ -17,7 +17,7 @@ namespace BakcellClassTask01
         }
         public void SendEmail(string Email)
         {
-            Console.WriteLine("Email şəxsə göndərildi");
+            Console.WriteLine("Email secilmish namizede gonderildi");
         }
       
 }
